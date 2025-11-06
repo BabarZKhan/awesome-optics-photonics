@@ -25,3 +25,5 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 
 - [Co-Packaged Optics for our Connected Future](https://www.youtube.com/watch?v=Xt-GY8Pkt6g&ab_channel=Microelectronics)
 - [The AI Bandwidth Wall & Co-Packaged Optics](https://www.youtube.com/watch?v=G5r2OyCN5_s&ab_channel=Asianometry)
+- [Co-Packaging of Optics for HPC (High-Performance Computing) and Datacenters](https://www.youtube.com/watch?v=eDdFtvokijU)
+- [Co-Packaged Optical-IO, the Promise and the Challenges](https://www.youtube.com/watch?v=L5JJ1C78LWU)
