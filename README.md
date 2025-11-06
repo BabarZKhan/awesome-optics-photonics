@@ -21,10 +21,12 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 - [Network Architecture in the Era of Integrated Optics](https://opg.optica.org/jocn/abstract.cfm?uri=JOCN-11-1-A72)
 - [Viability of Fiber-to-the-Server: Are We There Yet?](https://ieeexplore.ieee.org/abstract/document/8751280)
 
-
 # Videos
 
 - [Co-Packaged Optics for our Connected Future](https://www.youtube.com/watch?v=Xt-GY8Pkt6g&ab_channel=Microelectronics)
 - [The AI Bandwidth Wall & Co-Packaged Optics](https://www.youtube.com/watch?v=G5r2OyCN5_s&ab_channel=Asianometry)
 - [Co-Packaging of Optics for HPC (High-Performance Computing) and Datacenters](https://www.youtube.com/watch?v=eDdFtvokijU)
 - [Co-Packaged Optical-IO, the Promise and the Challenges](https://www.youtube.com/watch?v=L5JJ1C78LWU)
+
+# Blogs
+- [The Rise of Co-Packaged Optics](https://www.embedded.com/the-rise-of-co-packaged-optics/)
