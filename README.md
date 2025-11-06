@@ -1,4 +1,5 @@
 # co-packaged-optics
+Everything you wanted to know and learn about Co-packaged optics (CPO) but were too afraid.......
 
 
 # Contents
