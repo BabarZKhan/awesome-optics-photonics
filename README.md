@@ -7,6 +7,7 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 - [videos](#videos):
 - [slides](#slides):
 - [standards](#standards)
+  https://www.advanced-photonics.org/co-packaged-optics-standards
 - [blogs](#blogs):
 
 # Research
