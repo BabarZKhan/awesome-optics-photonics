@@ -31,3 +31,7 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 
 # Blogs
 - [The Rise of Co-Packaged Optics](https://www.embedded.com/the-rise-of-co-packaged-optics/)
+
+
+# Software/Framework/Tools
+- https://github.com/PennyLaneAI/catalyst/?tab=readme-ov-file
