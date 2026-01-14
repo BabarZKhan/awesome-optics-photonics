@@ -9,6 +9,7 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 - [standards](#standards)
   https://www.advanced-photonics.org/co-packaged-optics-standards
 - [blogs](#blogs):
+- [companies](#companies):
 
 # Research
 
@@ -28,6 +29,8 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 - [The AI Bandwidth Wall & Co-Packaged Optics](https://www.youtube.com/watch?v=G5r2OyCN5_s&ab_channel=Asianometry)
 - [Co-Packaging of Optics for HPC (High-Performance Computing) and Datacenters](https://www.youtube.com/watch?v=eDdFtvokijU)
 - [Co-Packaged Optical-IO, the Promise and the Challenges](https://www.youtube.com/watch?v=L5JJ1C78LWU)
+- [Is Photonic Computing The Future Of AI Chip Technology?](https://www.youtube.com/watch?v=Qe_k0XpGVOU)
+- [(https://www.youtube.com/watch?v=PAMlqGWurks)
 
 # Blogs
 - [The Rise of Co-Packaged Optics](https://www.embedded.com/the-rise-of-co-packaged-optics/)
@@ -35,3 +38,8 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 
 # Software/Framework/Tools
 - https://github.com/PennyLaneAI/catalyst/?tab=readme-ov-file
+
+
+# Companies
+- Akhetonics
+- Arago 
