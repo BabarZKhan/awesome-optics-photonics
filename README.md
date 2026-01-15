@@ -23,6 +23,9 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 - [Network Architecture in the Era of Integrated Optics](https://opg.optica.org/jocn/abstract.cfm?uri=JOCN-11-1-A72)
 - [Viability of Fiber-to-the-Server: Are We There Yet?](https://ieeexplore.ieee.org/abstract/document/8751280)
 
+### 2018
+- [Photonics for artificial intelligence and neuromorphic computing](https://www.nature.com/articles/s41566-020-00754-y)
+
 # Videos
 
 - [Co-Packaged Optics for our Connected Future](https://www.youtube.com/watch?v=Xt-GY8Pkt6g&ab_channel=Microelectronics)
