@@ -41,6 +41,7 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 
 # Software/Framework/Tools
 - https://github.com/PennyLaneAI/catalyst/?tab=readme-ov-file
+- https://github.com/BabarZKhan/awesome_photonics?tab=readme-ov-file
 
 
 # Companies
