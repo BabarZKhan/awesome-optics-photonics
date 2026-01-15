@@ -46,4 +46,11 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 
 # Companies
 - Akhetonics
-- Arago 
+- Arago
+- PsiQuantum
+- Xanadu
+- Ayar Labs (formerly OptiBit)
+- Optalysys
+- Lightelligence
+- Lightmatter
+- Photonic Inc.
