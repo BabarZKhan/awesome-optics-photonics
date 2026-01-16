@@ -34,6 +34,10 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 - [Co-Packaged Optical-IO, the Promise and the Challenges](https://www.youtube.com/watch?v=L5JJ1C78LWU)
 - [Is Photonic Computing The Future Of AI Chip Technology?](https://www.youtube.com/watch?v=Qe_k0XpGVOU)
 - [(https://www.youtube.com/watch?v=PAMlqGWurks)
+- https://www.youtube.com/@Cerebras/playlists
+- https://www.youtube.com/@CelestialAIInc
+- https://www.youtube.com/@LightmatterInc
+- https://www.youtube.com/watch?v=7GV_OdqzmIU
 
 # Blogs
 - [The Rise of Co-Packaged Optics](https://www.embedded.com/the-rise-of-co-packaged-optics/)
