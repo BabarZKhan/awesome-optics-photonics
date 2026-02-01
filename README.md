@@ -1,15 +1,15 @@
-# co-packaged-optics
-Everything you wanted to know and learn about Co-packaged optics (CPO) but were too afraid.......
+# Awesome Optics-Photonics Storage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+This repository provides a curated list of resources related to optics and phootonics, with a particular emphasis on open-source projects. It is still work in progress.
 
 
 # Contents
 - [research](#research):
+- [open-source-tools](#open-source-tools):
 - [videos](#videos):
-- [slides](#slides):
 - [standards](#standards)
   https://www.advanced-photonics.org/co-packaged-optics-standards
 - [blogs](#blogs):
-- [companies](#companies):
+
 
 # Research
 
@@ -25,6 +25,8 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 
 ### 2018
 - [Photonics for artificial intelligence and neuromorphic computing](https://www.nature.com/articles/s41566-020-00754-y)
+
+# Open Source tools
 
 # Videos
 
@@ -43,18 +45,4 @@ Everything you wanted to know and learn about Co-packaged optics (CPO) but were 
 - [The Rise of Co-Packaged Optics](https://www.embedded.com/the-rise-of-co-packaged-optics/)
 
 
-# Software/Framework/Tools
-- https://github.com/PennyLaneAI/catalyst/?tab=readme-ov-file
-- https://github.com/BabarZKhan/awesome_photonics?tab=readme-ov-file
 
-
-# Companies
-- Akhetonics
-- Arago
-- PsiQuantum
-- Xanadu
-- Ayar Labs (formerly OptiBit)
-- Optalysys
-- Lightelligence
-- Lightmatter
-- Photonic Inc.
