@@ -1,8 +1,11 @@
-# Awesome Optics-Photonics Storage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-This repository provides a curated list of resources related to optics and phootonics, with a particular emphasis on open-source projects. It is still work in progress.
+# Awesome Optics-Photonics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+This repository provides a curated list of resources related to optics and photonics, with a particular emphasis on open-source projects for the community. It is still a work in progress (WIP). Although I started working on these topics hands-on some time ago, but I have publicly published this repo 
+before my BoF session at [FOSDEM 2026.](https://fosdem.org/2026/schedule/event/GC3NGY-optics_photonics_tooling_bof/).
+
+**Please note**: There is another [very helpful open-source repository](https://github.com/joamatab/awesome_photonics) that I have found very useful and to which I have also contributed once. However, this repository aims to address gaps in that repository and include additional resources beyond what the other repository covers.
 
 
-# Contents
+# Contents[WIP]
 - [research](#research):
 - [open-source-tools](#open-source-tools):
 - [videos](#videos):
@@ -11,7 +14,7 @@ This repository provides a curated list of resources related to optics and phoot
 - [blogs](#blogs):
 
 
-# Research
+# Research[WIP]
 
 ### 2017
 - [Fiber-to-Waveguide Connector for Co-Packaged Optics](https://ieeexplore.ieee.org/abstract/document/8345870)
@@ -26,22 +29,28 @@ This repository provides a curated list of resources related to optics and phoot
 ### 2018
 - [Photonics for artificial intelligence and neuromorphic computing](https://www.nature.com/articles/s41566-020-00754-y)
 
-# Open Source tools
+# Open Source tools[WIP]
+- [Neural_Nano-Optics](https://github.com/Ethan-Tseng/Neural_Nano-Optics)
+- [simpa](https://github.com/IMSY-DKFZ/simpa)
+- [simos](https://github.com/spinsimulation/simos)
+- [rostam](https://github.com/MLNetwork/rostam)
+- [PyNLO](https://github.com/pyNLO/PyNLO)
+- [fdtdz](https://github.com/spinsphotonics/fdtdz)
+- [Photon-HDF5](https://photon-hdf5.github.io/)
 
-# Videos
+# Educational Videos[WIP]
 
 - [Co-Packaged Optics for our Connected Future](https://www.youtube.com/watch?v=Xt-GY8Pkt6g&ab_channel=Microelectronics)
+- [Cerebras Co-Founder Deconstructs Blackwell GPU Delay](https://www.youtube.com/watch?v=7GV_OdqzmIU)
 - [The AI Bandwidth Wall & Co-Packaged Optics](https://www.youtube.com/watch?v=G5r2OyCN5_s&ab_channel=Asianometry)
 - [Co-Packaging of Optics for HPC (High-Performance Computing) and Datacenters](https://www.youtube.com/watch?v=eDdFtvokijU)
 - [Co-Packaged Optical-IO, the Promise and the Challenges](https://www.youtube.com/watch?v=L5JJ1C78LWU)
 - [Is Photonic Computing The Future Of AI Chip Technology?](https://www.youtube.com/watch?v=Qe_k0XpGVOU)
-- [(https://www.youtube.com/watch?v=PAMlqGWurks)
-- https://www.youtube.com/@Cerebras/playlists
-- https://www.youtube.com/@CelestialAIInc
-- https://www.youtube.com/@LightmatterInc
-- https://www.youtube.com/watch?v=7GV_OdqzmIU
+- [Cerebras](https://www.youtube.com/@Cerebras/playlists)
+- [Celestial AI](https://www.youtube.com/@CelestialAIInc)
+- [Lightmatter](https://www.youtube.com/@LightmatterInc)
 
-# Blogs
+# Blogs[WIP]
 - [The Rise of Co-Packaged Optics](https://www.embedded.com/the-rise-of-co-packaged-optics/)
 
 
