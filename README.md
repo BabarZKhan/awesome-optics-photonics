@@ -37,6 +37,7 @@ before my BoF session at [FOSDEM 2026.](https://fosdem.org/2026/schedule/event/G
 - [PyNLO](https://github.com/pyNLO/PyNLO)
 - [fdtdz](https://github.com/spinsphotonics/fdtdz)
 - [Photon-HDF5](https://photon-hdf5.github.io/)
+- [Lunima](https://github.com/aignermax/Lunima)
 
 # Educational Videos[WIP]
 
