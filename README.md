@@ -40,6 +40,14 @@ before my BoF session at [FOSDEM 2026.](https://fosdem.org/2026/schedule/event/G
 - [Lunima](https://github.com/aignermax/Lunima)
 - [Connect-A-PIC](https://github.com/Akhetonics/Connect-A-PIC)
 
+# Compilers [WIP]
+- [core-plugins-catalyst](https://github.com/munich-quantum-toolkit/core-plugins-catalyst)
+- [lamina](https://github.com/SkuldNorniern/lamina)
+- [qllvm](https://github.com/QCFlow/QLLVM)
+- [quantumc](https://github.com/leonardopagliochini/QuantumC)
+- [dqc1](https://github.com/Quantum-Blade1/dqc1)
+
+
 # Educational Videos[WIP]
 
 - [Co-Packaged Optics for our Connected Future](https://www.youtube.com/watch?v=Xt-GY8Pkt6g&ab_channel=Microelectronics)
