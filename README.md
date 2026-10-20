@@ -63,5 +63,6 @@ before my BoF session at [FOSDEM 2026.](https://fosdem.org/2026/schedule/event/G
 # Blogs[WIP]
 - [The Rise of Co-Packaged Optics](https://www.embedded.com/the-rise-of-co-packaged-optics/)
 
+# Software resource guides
 
-
+- [Optics · Photonics](https://github.com/Cherish0925/optics-photonics) - Bilingual software catalogue with physical methods, licensing, programming interfaces and primary sources; offline HTML and reusable JSON.
