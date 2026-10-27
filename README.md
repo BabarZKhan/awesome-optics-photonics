@@ -39,6 +39,7 @@ before my BoF session at [FOSDEM 2026.](https://fosdem.org/2026/schedule/event/G
 - [Photon-HDF5](https://photon-hdf5.github.io/)
 - [Lunima](https://github.com/aignermax/Lunima)
 - [Connect-A-PIC](https://github.com/Akhetonics/Connect-A-PIC)
+- [PhotonCalc](https://github.com/NarwhalThePong/photoncalc)
 
 # Compilers [WIP]
 - [core-plugins-catalyst](https://github.com/munich-quantum-toolkit/core-plugins-catalyst)
