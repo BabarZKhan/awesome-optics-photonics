@@ -62,6 +62,7 @@ before my BoF session at [FOSDEM 2026.](https://fosdem.org/2026/schedule/event/G
 
 # Blogs[WIP]
 - [The Rise of Co-Packaged Optics](https://www.embedded.com/the-rise-of-co-packaged-optics/)
+- [Telecentric magnification and field-of-view guide](https://lumaspecvision.com/blogs/learn/telecentric-lens-calculator) - Free company-hosted browser calculator and worked examples relating sensor size, magnification, field of view and object-space pixel sampling.
 
 # Software resource guides
 
